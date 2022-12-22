@@ -14,14 +14,14 @@ We were then asked to find the total number of rides, total fares for each city 
 
   - This table shows Total Rides, Total Drivers, Total Fares, Average Fare per Ride and Average Fare per Driver based on the three different demographics areas. 
   
+  
+  The multiple line graphs show’s that between January 2019 to April 2019, the urban cities are the highest grossing, then suburban and last the rural.
+  
   ![image](https://user-images.githubusercontent.com/118132063/209186769-4a76a2c3-b582-48e7-a202-4e0ddce5126b.png)
   
-    - The multiple line graphs show’s that between January 2019 to April 2019, the urban cities are the highest grossing, then suburban and last the rural.
-  
-
-     
-    
-   ## ** Recommendations
+   
+ 
+ ## ** Recommendations
    
    The three recommendation I would suggest are:
 -	See what causes the spikes on the graph, as the demand is probably higher at those specific times and then increase the prices.
