@@ -21,7 +21,7 @@ We were then asked to find the total number of rides, total fares for each city 
   
    
  
- ## ** Recommendations
+ ## *Recommendations* ##
    
    The three recommendation I would suggest are:
 -	See what causes the spikes on the graph, as the demand is probably higher at those specific times and then increase the prices.
